@@ -17,3 +17,15 @@ Each notebook is a file in your OneDrive.
 - If a notebook's file gets too big, it might slow the access to the info.\
   (Resolved by opening a number of notebooks, keeping each notebook's file not too big).
 
+### Details
+#### notebooks
+Create notebooks inside OneNote per main subject, examples:\
+- <title>-Read : for all important links you might read now or later.\
+- <title>-Work : for jobs you made and might do similar ones in the future.
+    
+#### sections
+Each notebook wil consist sections named: read <subject> , example for <title>-Read notebook:\
+- read <subject-1>\
+- read <subject-2>\
+- read <subject-3>
+    
