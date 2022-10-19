@@ -25,7 +25,7 @@ Create notebooks inside OneNote per main subject, examples:
     
 #### sections
 Each notebook wil consist sections named: read <subject> , example for <title>-Read notebook:
-- read-<subject-1>
-- read-<subject-2>
-- read-<subject-3>
+- read-subject-1
+- read-subject-2
+- read-subject-3
     
