@@ -19,13 +19,13 @@ Each notebook is a file in your OneDrive.
 
 ### Details
 #### notebooks
-Create notebooks inside OneNote per main subject, examples:\
-- <title>-Read : for all important links you might read now or later.\
+Create notebooks inside OneNote per main subject, examples:
+- <title>-Read : for all important links you might read now or later.
 - <title>-Work : for jobs you made and might do similar ones in the future.
     
 #### sections
-Each notebook wil consist sections named: read <subject> , example for <title>-Read notebook:\
-- read <subject-1>\
-- read <subject-2>\
+Each notebook wil consist sections named: read <subject> , example for <title>-Read notebook:
+- read <subject-1>
+- read <subject-2>
 - read <subject-3>
     
