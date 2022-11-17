@@ -30,7 +30,7 @@ Each notebook wil consist sections named: read <subject> , example for <title>-R
 - read-subject-3
 
 #### suggested topics
-- read    : Links you want to save for the future and read later/again.
+- read    : Links you want to save for the future and read later/again.[^1]
 - work    : Topics learned while working on a task.
 - cloud   : Cloud specific, like AWS or Azure.
 - OS      : OS specific, like Windows or LINUX.
