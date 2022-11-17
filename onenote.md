@@ -28,4 +28,11 @@ Each notebook wil consist sections named: read <subject> , example for <title>-R
 - read-subject-1
 - read-subject-2
 - read-subject-3
-    
+
+#### suggested topics
+- <read>    : Links you want to save for the future and read later/again.
+- <work>    : Topics learned while working on a task.
+- <cloud>   : Cloud specific, like AWS or Azure.
+- <OS>      : OS specific, like Windows or LINUX.
+- <courses> : Notes taken for topics in a course.
+- <vendor>  : example Hashicorp.
